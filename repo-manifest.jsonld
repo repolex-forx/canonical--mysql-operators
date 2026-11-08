@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/mysql-operators/commit/268e6159c250b1ace7115a44cb8599983ccc472a",
       "git:hexsha": "268e6159c250b1ace7115a44cb8599983ccc472a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v8.4/1.116.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v8.4/1.116.0",
+      "repolex:parsedAt": "2026-11-08T04:52:48.037209+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/mysql-operators/commit/b30d3d8d816537610cd670506556a23e577cdcb5",
